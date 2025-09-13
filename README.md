@@ -1,4 +1,4 @@
-# Diagrama-de-ordem-de-serviço-em-uma-oficina-mecânica.
+# DIAGRAMA DE ORDEM DE SERVICO EM UMA OFICINA MECANICA E UMA IMAGEM PNG DO DIAGRAMA
 Esse repositório tem o objetivo de enviar um diagrama de um sistema de ordem de serviço para o projeto de uma oficina mecânica detalhando o controle de clientes, veículos, pedidos, peças, serviços, equipes e pagamentos.
 # Foi criado um sistema de tabelas devidamente organizadas e divididas por funções.
 ---
