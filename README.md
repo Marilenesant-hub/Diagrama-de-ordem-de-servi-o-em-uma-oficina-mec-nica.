@@ -12,3 +12,7 @@ Já a outra equipe especializada em manutenção de veículos será responsável
 Os pedidos contêm a descrição, o estatus, a quantidade, a data de emissão, a data de conclusão, a identificação do cliente que fez o pedido do serviço e o valor.
 As ordens de serviços de cada equipe são emitidas com a descrição do serviço a qual cada equipe foi designada contendo o valor, a data, a quantidade, a identificação do pedido e da equipe que realizará o serviço e no caso do serviço de troca de peças também contém o estoque e o nome da peça.
 Na aréa do pagamento estão contidas informações sobre a identificação do pedido, a data, o valor total a ser pago, e a forma de pagamento.
+---
+#IMAGEM DE DIAGRAMA DE UMA ORDEM DE SERVIÇO EM UMA OFICINA MECÂNICA.
+---
+<img width="795" height="1271" alt="ordem de serviço" src="https://github.com/user-attachments/assets/4f684017-7f88-45cf-acb2-0fa4ba7374b9" />
